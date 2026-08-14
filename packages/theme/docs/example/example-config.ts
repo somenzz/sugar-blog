@@ -74,4 +74,13 @@ export default defineExamples([
     avatar: 'https://cdn.upyun.sugarat.top/test/sugar/566d2ea782106c5b88991acf77526244',
     nickname: 'SuZhelevel6'
   },
+  {
+  "cover": "https://dazhengs.github.io/logo.png",
+  "link": "https://dazhengs.github.io",
+  "name": "DaZheng",
+  "desc": "DaZheng's blog",
+  "avatar": "https://dazhengs.github.io/logo.png",
+  "nickname": "DaZheng",
+  "home": "https://github.com/dazhengs"
+}
 ])
